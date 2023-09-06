@@ -28,4 +28,4 @@ void Update(){
 > [!IMPORTANT]
 > Выделенный текст.
 
-[Иллюстрация к проекту](https://github.com/DragonAirDragon/test/blob/main/images.png)
+![Иллюстрация к проекту](https://github.com/DragonAirDragon/test/blob/main/images.png)
