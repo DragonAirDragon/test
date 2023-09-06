@@ -23,3 +23,9 @@ void Update(){
 - [x] Сделать форматирование в Markdown
 - [ ] 2 Лаба
 - [ ] 3 Лаба
+
+[Страница Гитхаб](https://pages.github.com/)
+> [!IMPORTANT]
+> Выделенный текст.
+
+![Иллюстрация к проекту](https://github.com/DragonAirDragon/test/images.png)
